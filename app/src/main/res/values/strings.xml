@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Figuras geometricas</string>
+    <string name="card_view_estrella_nombre">Nombre de la figura</string>
+    <string name="card_view_estrella_descripcion">Breve descripcion de la figura</string>
+    <string name="card_view_circulo_nombre">Circulo</string>
+    <string name="card_view_ovalo_nombre">Ovalo</string>
+    <string name="card_view_cuadrado_nombre">Cuadrado</string>
+    <string name="card_view_rectangulo_nombre">Rectangulo</string>
+    <string name="card_view_libre_nombre">Diseño libre</string>
+    <string name="card_view_circulo_descripcion">Es la figura de una pelota o un sol</string>
+    <string name="card_view_ovalo_descripcion">Es un circulo alargado como un huevo</string>
+    <string name="card_view_cuadrado_descripcion">Es una figura de cuatro lados iguales</string>
+    <string name="card_view_rectangulo_descripcion">Tiene dos lados largos y dos cortos</string>
+    <string name="card_view_libre_descripcion">Dibuje una figura libremente</string>
+
+
+    <string-array name="figuras">
+        <item>circulo</item>
+        <item>ovalo</item>
+    </string-array>
+</resources>

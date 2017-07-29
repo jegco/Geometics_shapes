@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometric figures</string>
+    <string name="card_view_estrella_nombre">Figure name</string>
+    <string name="card_view_estrella_descripcion">Short description of the figure</string>
+    <string name="card_view_circulo_nombre">Circle</string>
+    <string name="card_view_ovalo_nombre">Oval</string>
+    <string name="card_view_cuadrado_nombre">Square</string>
+    <string name="card_view_rectangulo_nombre">Rectangle</string>
+    <string name="card_view_libre_nombre">Free draw</string>
+    <string name="card_view_circulo_descripcion">Its the figure of a ball or a sun</string>
+    <string name="card_view_ovalo_descripcion">Its a large circle like an egg</string>
+    <string name="card_view_cuadrado_descripcion">Its a four equal side figure</string>
+    <string name="card_view_rectangulo_descripcion">It has two equals large sides and two short sides</string>
+    <string name="card_view_libre_descripcion">Draw freely</string>
+</resources>
